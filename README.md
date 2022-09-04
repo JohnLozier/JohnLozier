@@ -1,16 +1,37 @@
-### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=24&pause=1000&color=C8C8C8&width=435&lines=Hi,+I'm+John+Lozier+👋)
+<br>
+I am a 8th grader intereseted in crypto, tech and CS. Currently my favorite framework is SolidJS with TypeScript. I enjoy making useful frontend applications to solve problems or just for the fun of it. In the future I plan on learning more backend and getting more into mobile app developement.
 
-<!--
-**JohnLozier/JohnLozier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Skills:
+- JavaScript <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+- TypeScript <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+- NodeJS <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+- ReactJS <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+- SolidJS (favorite framework) <img width="32" height="32" align="middle" src="https://www.solidjs.com/assets/logo.123b04bc.svg" />
+- NextJS <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+- React Native (expo) <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+- Android (java) <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
+- Bash <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+- HTML 5 <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+- CSS 3 <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+- Tailwind <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+- Python 3 <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+- Webpack <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
+- Vite <img width="32" height="32" align="middle" src="https://vitejs.dev/logo-with-shadow.png" />
+- Chart.js <img width="32" height="32" align="middle" src="https://www.chartjs.org/img/chartjs-logo.svg" />
+- GraphQL <img width="32" height="32" align="middle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />
+- Electron <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
+- Linux <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+- Git <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects:
+- [CodeTyper](https://johnlozier.com/codetyper), a site to practice typing speed for coding
+- CryptoPrices, a chrome/firefox extension to quickly check crypto
+- [JohnLozier.com](https://johnlozier.com), my personal website (due for a makeover)
+- Homepage, a customizable homepage with widgets for firefox and chrome (in progress)🚧
+- Simple Password Manager, and easy to use extension to store and autofill passwords (in progress)🚧
+
+<br>
+
+![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnLozier&theme=dark)
