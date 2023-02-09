@@ -28,7 +28,7 @@ I am a 8th grader intereseted in crypto, tech and CS. Currently my favorite fram
 ### Projects:
 - [CodeTyper](https://johnlozier.com/codetyper), a site to practice typing speed for coding
 - CryptoPrices, a chrome/firefox extension to quickly check crypto
-- [JohnLozier.com](https://johnlozier.com), my personal website (due for a makeover)
+- [JohnLozier.com](https://johnlozier.com), my personal website (recently updated)
 - Homepage, a customizable homepage with widgets for firefox and chrome (in progress)🚧
 - Simple Password Manager, and easy to use extension to store and autofill passwords (in progress)🚧
 
