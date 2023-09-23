@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=24&pause=1000&color=C8C8C8&width=435&lines=Hi,+I'm+John+Lozier+👋)
 <br>
-I am a 8th grader intereseted in crypto, tech and CS. Currently my favorite framework is SolidJS with TypeScript. I enjoy making useful frontend applications to solve problems or just for the fun of it. In the future I plan on learning more backend and getting more into mobile app developement.
+I am a high school freshman intereseted in crypto, tech and CS. Currently my favorite framework is SolidJS with TypeScript. I enjoy making useful frontend applications to solve problems or just for the fun of it. In the future I plan on learning more backend and getting more into mobile app developement.
 
 
 ### Skills:
