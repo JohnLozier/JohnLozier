@@ -8,7 +8,7 @@ I am a high school freshman intereseted in crypto, tech and CS. Currently my fav
 - TypeScript <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 - NodeJS <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 - ReactJS <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-- SolidJS (favorite framework) <img width="32" height="32" align="middle" src="https://www.solidjs.com/assets/logo.123b04bc.svg" />
+- SolidJS (favorite framework) <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidjs/solidjs-original.svg" />
 - NextJS <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 - React Native (expo) <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 - Android (java) <img width="32" height="32" align="middle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
