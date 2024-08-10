@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Open+Sans&size=24&pause=1000&color=C8C8C8&width=435&lines=Hi,+I'm+John+Lozier+👋)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=31&pause=1000&color=C8C8C8&width=435&lines=Hi,+I'm+John+Lozier+👋)
 <br>
 I am a high school freshman intereseted in crypto, tech and CS. Currently my favorite framework is SolidJS with TypeScript. I enjoy making useful frontend applications to solve problems or just for the fun of it. In the future I plan on learning more backend and getting more into mobile app developement.
 
@@ -29,8 +29,10 @@ I am a high school freshman intereseted in crypto, tech and CS. Currently my fav
 - [CodeTyper](https://johnlozier.com/codetyper), a site to practice typing speed for coding
 - CryptoPrices, a chrome/firefox extension to quickly check crypto
 - [JohnLozier.com](https://johnlozier.com), my personal website (recently updated)
-- Homepage, a customizable homepage with widgets for firefox and chrome (in progress)🚧
+- [Canvas+](https://canvasplus.org), a web extension that adds features to the school website canvas
+- Homepage, a customizable homepage with widgets for firefox and chrome
 - Simple Password Manager, and easy to use extension to store and autofill passwords (in progress)🚧
+- More projects under development 🤐
 
 <br>
 
